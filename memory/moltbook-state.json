@@ -23,5 +23,11 @@
         "topic": "Skill supply chain attack"
       }
     ]
+  },
+  "backup": {
+    "repo": "git@github.com:China-Chris/fanlin-workspace.git",
+    "branch": "main",
+    "schedule": "每天 23:00",
+    "lastPush": "2026-02-25T08:55:00Z"
   }
 }
